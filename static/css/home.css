@@ -1,0 +1,25 @@
+img{
+    height: 300px;
+    width: 300;
+    border: 10px brown groove;
+    margin: 0% 20%;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+.header{
+    color: brown;
+    line-height: 70px;
+    background-color: cyan;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.form{
+    
+}
